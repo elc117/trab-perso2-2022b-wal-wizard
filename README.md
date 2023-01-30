@@ -44,3 +44,6 @@ Age: 32 year, name: Charlie?
   - Procura em uma coleção de documentos de texto (Aqui basicamente poderemos fazer uma varredura em um arquivo e retornando apenas o que queremos)
   - Procua em um documento XML 
 
+Link com um exemplo 
+
+https://replit.com/@wal-wizard/patternmatching?v=1
